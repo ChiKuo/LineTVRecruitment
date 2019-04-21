@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LineTVRecruitment</string>
+    <string name="app_main">戲劇列表</string>
+    <string name="app_drama">戲劇資訊</string>
+    <string name="created_at_text">出版日期：%1$s</string>
+    <string name="total_view_text">觀看次數：%1$s</string>
+</resources>
